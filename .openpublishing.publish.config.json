@@ -29,16 +29,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "E2E_P_Dotnet_2017_9_18_18_50_6/xml",
+        "OutputYamlFolder": "E2E_P_Dotnet_2017_9_18_18_50_6/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "E2E_P_Dotnet_2017_9_18_18_50_6"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "E2E_P_Dotnet_2017_9_18_18_50_6/api/E2E_P_Dotnet_2017_9_18_18_50_6/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "E2E_P_Dotnet_2017_9_18_18_50_6/api"
       ]
     }
   ],
